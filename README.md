@@ -1,47 +1,46 @@
-# Heidi Kauppila
+# Heidi Kauppila Portfolio
 
-ICT Engineering Student
+ICT Engineering Student with experience in software development, web development, mobile applications, XR technologies, IoT systems, data analytics, and low-code development.
 
-## Projects
-
-### XR Programming
-- Model Viewer AR
-- Photogrammetry Meshroom
-- Vuforia AR
-- Virtual Studio
-- Virtual Reality
-- 360 Photos
-- MetaHuman
-
-Repository:
-https://github.com/heidipetrakauppila/XR-Programming
+## Repositories
 
 ### Mobile Programming
-Android Studio and Jetpack Compose projects.
+Android applications developed with Android Studio and Jetpack Compose.
 
-Repository:
-https://github.com/heidipetrakauppila/Mobile-Programming
+### XR Programming
+Projects covering AR, VR, photogrammetry, MetaHuman, Unity, and Unreal Engine.
 
-### Low Code Development
-- Power BI
-- Power Apps
-- Power Automate
-- OutSystems
-
-Repository:
-https://github.com/heidipetrakauppila/LowCode
+### Low-Code Development
+Projects created with Power BI, Power Apps, Power Automate, and OutSystems.
 
 ### Software Engineering
-
-Repository:
-https://github.com/heidipetrakauppila/Software-Engineering
-
-### Agile Development & DevOps
-
-Repository:
-https://github.com/heidipetrakauppila/Agile-System-Development-DevOps
+Software design, UML, requirements engineering, and system documentation.
 
 ### Smart Systems ESP32
+IoT and embedded systems projects using ESP32 and Arduino.
 
-Repository:
-https://github.com/heidipetrakauppila/Smart-Systems-ESP32
+### Advanced Data Management
+Data analytics and OpenAQ projects using Python.
+
+### Web Development
+HTML and CSS projects and responsive web design.
+
+### Agile Methods & DevOps
+Projects related to agile development, project management, and DevOps practices.
+
+## Technologies
+
+- Python
+- Java
+- Kotlin
+- C++
+- HTML
+- CSS
+- TypeScript
+- Android Studio
+- Unity
+- Unreal Engine
+- Power Platform
+- ESP32
+- Git & GitHub
+- Azure DevOps
